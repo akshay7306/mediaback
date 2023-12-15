@@ -1,0 +1,92 @@
+{
+  "videos": [
+    {
+      "id": "12",
+      "caption": "lucifer trailer",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c2/Lucifer_film_poster.jpg",
+      "url": "https://www.youtube.com/embed/fnPxqs56XJc"
+    },
+    {
+      "id": "1",
+      "caption": "Kaathal",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGYxY2MyZDAtOTU5ZS00OWUyLTg5YWItNDViMGRkNGQ5MWZhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+      "url": "https://www.youtube.com/embed/uc0kllY_Rgo"
+    }
+  ],
+  "category": [
+    {
+      "id": "4",
+      "name": "informative",
+      "allVideos": [
+        {
+          "id": "12",
+          "caption": "lucifer trailer",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c2/Lucifer_film_poster.jpg",
+          "url": "https://www.youtube.com/embed/fnPxqs56XJc"
+        },
+        {
+          "id": "12",
+          "caption": "lucifer trailer",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c2/Lucifer_film_poster.jpg",
+          "url": "https://www.youtube.com/embed/fnPxqs56XJc"
+        },
+        {
+          "id": "1",
+          "caption": "Kaathal",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGYxY2MyZDAtOTU5ZS00OWUyLTg5YWItNDViMGRkNGQ5MWZhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+          "url": "https://www.youtube.com/embed/uc0kllY_Rgo"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "movies",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Kaathal",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGYxY2MyZDAtOTU5ZS00OWUyLTg5YWItNDViMGRkNGQ5MWZhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+          "url": "https://www.youtube.com/embed/uc0kllY_Rgo"
+        },
+        {
+          "id": "12",
+          "caption": "lucifer trailer",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c2/Lucifer_film_poster.jpg",
+          "url": "https://www.youtube.com/embed/fnPxqs56XJc"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardname": "lucifer",
+      "url": "https://www.youtube.com/watch?v=x1-Ya0NZQso&t",
+      "Date": "08-12-2023"
+    },
+    {
+      "id": "8ec35992-18e3-4103-b058-cdc3c8d1172c",
+      "cardname": "lucifer trailer",
+      "url": "https://www.youtube.com/embed/fnPxqs56XJc",
+      "Date": "2023-12-12T07:22:18.055Z"
+    },
+    {
+      "id": "fa0f8930-8c94-4e3b-ae12-ab14d9f5bc53",
+      "cardname": "neru",
+      "url": "https://www.youtube.com/embed/abuLOH7xs8I",
+      "Date": "2023-12-12T07:26:14.798Z"
+    },
+    {
+      "id": "2166f342-1931-4115-aa93-519b739d3afd",
+      "cardname": "neru",
+      "url": "https://www.youtube.com/embed/abuLOH7xs8I",
+      "Date": "2023-12-12T07:26:32.734Z"
+    },
+    {
+      "id": "466cd066-8041-4f97-8087-4989579aec2d",
+      "cardname": "Kaathal",
+      "url": "https://www.youtube.com/embed/uc0kllY_Rgo",
+      "Date": "2023-12-12T07:35:42.319Z"
+    }
+  ]
+}
